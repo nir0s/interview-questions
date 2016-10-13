@@ -14,12 +14,18 @@ If you're instead looking for technical interview questions, see https://github.
 * Some questions might not be relevant to some people/companies.
 * Each question is indicative of something. That certainly does not mean that it fully proves something but rather that it confirms it.
 * Asking too many questions exhausts the other side. Make sure you remove unnecessary questions for your pool.
+* The main guidelines for any job in our space, as I see it, would be to provide an employee, as per Dan Pink, with [Autonomy, Mastery and Purpose](https://goo.gl/5ZZocQ). As such, the questions should mainly aim towards understanding whether these are provided by the company. Obviously, some questions are helper questions. Asking the interviewer how long he's been with the company helps you understand whether he has enough knowledge to share but has no direct relationship to any of the three.
 
+
+# Questions
+
+## First, for the interviewer
+
+How long have you been with the company? Indicative of whether the level of knowledge the interviewer has on the company is sufficient and they can answer your questions in a sufficient manner.
 
 ## Company level
 
-* How long have you been with the company? Indicative of whether the level of knowledge the interviewer has on the company is sufficient.
-* What is the company's mission statement? This is practically like asking "What is the problem the company is trying to solve?". A company without a mission statement is a danger thing. If the interviewer seems confused, it's indicative of lack of a declared company-wide purpose.
+* What is the company's mission statement? This is practically like asking "What is the problem the company is trying to solve?". A company without a mission statement is a dangerous thing. If the interviewer seems confused, it's indicative of lack of a declared company-wide purpose.
 * What is the company's yearly revenue? Indicative of delivery in relation to company side.
 * How many paying customers does the company have? Indicative of adoption
 * How many people work in the company and what's the growth rate? Indicative of recruiting habits, hypergrowth, etc..
@@ -47,6 +53,7 @@ If you're instead looking for technical interview questions, see https://github.
 
 ## Team level
 
+* How are initiatives taken? If I want to take complete ownership of an idea, is that possible? Indicative of autonomous approach.
 * What is the goal of the team I will be joining?
 * Do you have frequent 1:1 meetings with team members?
 * Are people encouraged to admit mistakes? Indicative of culture of improvement rather than fear.
@@ -75,6 +82,8 @@ If you're instead looking for technical interview questions, see https://github.
 * Who do I report to?
 * ... is my current experience. If I left here in 3-5 years, what would I have gained?
 * What skills would make an ideal candidate? Indicative of whether you're the right person for the job.
+* Are there accepted working hours?
+* Are there promotion opportunities?
 * What are the expected availability levels? 24/7? etc..
 
 ## Technical level
@@ -85,7 +94,7 @@ If you're instead looking for technical interview questions, see https://github.
 * Are there any coding standards?
 * What's your testing methodology? unit+integration+system?
 * How are architecture level changes accepted?
-* Which version control method are you using?
+* Which version control method are you using? Indicative of old-school approach. The companies for which I've interviewed who were using SVN, rather than Git, for example, were also the ones who failed to atract me in other areas.
 
 ## Next steps
 
@@ -95,4 +104,6 @@ If you're instead looking for technical interview questions, see https://github.
 * Who can I ask additional questions?
 * What can I help clarify that woud make hiring me an easy decision?
 
+## Last
 
+* I was wondering what your best moment so far at (company name here) was? (https://goo.gl/l0u2RT)
