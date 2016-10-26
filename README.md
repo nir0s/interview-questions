@@ -1,32 +1,41 @@
 # Interview Questions
 
-This is a list of question I would ask or would like to have been asked for in a job interview for a development or operations role.
+This is a list of questions I would ask or would like to have been asked for in a job interview for a development or operations role.
 
 The idea is to provide as much background for each question as possible to justify it being asked and to provide blog posts, articles or any other source of information to base it upon.
 
 The list comprises of sections, each related to a different area.
 
-If you're instead looking for technical interview questions, see https://github.com/MaximAbramchuck/awesome-interview-questions#python
+If you're instead looking for technical interview questions, see https://github.com/MaximAbramchuck/awesome-interview-questions
 
 
 ## Before you read
 
 * Some questions might not be relevant to some people/companies.
 * Each question is indicative of something. That certainly does not mean that it fully proves something but rather that it confirms it.
-* Asking too many questions exhausts the other side. Make sure you remove unnecessary questions for your pool.
-* The main guidelines for any job in our space, as I see it, would be to provide an employee, as per Dan Pink, with [Autonomy, Mastery and Purpose](https://goo.gl/5ZZocQ). As such, the questions should mainly aim towards understanding whether these are provided by the company. Obviously, some questions are helper questions. Asking the interviewer how long he's been with the company helps you understand whether he has enough knowledge to share but has no direct relationship to any of the three.
+* Try not to bombard with questions but rather ignite a conversation. It makes people less defensive.
+* Following up on the previous point, asking too many questions exhausts the interviewer so make sure you remove unnecessary questions from your pool. Additionally, a good idea would probably be to try and form a way of asking some of the questions in a manner that would solicit the interviewer to answer other questions also. For example, asking "Do you conduct code reviews" can probably lead to talking about testing methodologies, the VCS system used, coding standards and the process of shipping code to production, without explicitly asking for each of these.
+* The main guidelines for any job in our space (and everywhere else, really), as I see it, would be to provide an employee, as per Dan Pink, with [Autonomy, Mastery and Purpose](https://goo.gl/5ZZocQ). As such, the questions should mainly aim towards understanding whether these are provided by the company. Obviously, some questions are helper questions. Asking the interviewer how long he's been with the company helps you understand whether he has enough knowledge to share but has no direct relationship to any of the three.
 
 
 # Questions
 
 ## First, for the interviewer
 
-How long have you been with the company? Indicative of whether the level of knowledge the interviewer has on the company is sufficient and they can answer your questions in a sufficient manner.
+Q: How long have you been with the company? 
+
+Explanation: Indicative of whether the level of knowledge the interviewer has on the company is sufficient and they can answer your questions in a sufficient manner.
 
 ## Company level
 
-* What is the company's mission statement? This is practically like asking "What is the problem the company is trying to solve?". A company without a mission statement is a dangerous thing. If the interviewer seems confused, it's indicative of lack of a declared company-wide purpose.
-* What is the company's yearly revenue? Indicative of delivery in relation to company side.
+Q: What is the company's mission statement? 
+
+Explanation: This is practically like asking "What is the problem the company is trying to solve?". A company without a mission statement is a dangerous thing. If the interviewer seems confused, it's indicative of lack of a declared company-wide purpose.
+
+Q: What is the company's yearly revenue? 
+
+Explanation: Indicative of delivery in relation to company side.
+
 * How many paying customers does the company have? Indicative of adoption
 * How many people work in the company and what's the growth rate? Indicative of recruiting habits, hypergrowth, etc..
 * How many levels of hierarchy does the company hold? Indicative of how managerial the company is. Too many levels of hierarchy might indicate redundancy.
